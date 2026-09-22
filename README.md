@@ -2,8 +2,8 @@
 
 ## Internship Details
 
-- **Intern ID:** YOUR_INTERN_ID
-- **Full Name:** YOUR_FULL_NAME
+- **Intern ID:** CITS8940
+- **Full Name:** CITS8940
 - **No. of Weeks:** YOUR_NUMBER_OF_WEEKS
 - **Project Name:** Exploratory Data Analysis (EDA)
 
